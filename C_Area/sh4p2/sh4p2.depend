@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1656514630 source:/media/nasser_pc/New Volume/CS/Projects/sh4p2/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679673850 source:/media/nasser_pc/New Volume/CS/Projects/C_Area/temperatures_DSorting/main.c
+	<stdio.h>
+	<stdlib.h>
+	<cs50.h>
+

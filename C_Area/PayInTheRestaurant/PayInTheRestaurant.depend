@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679166248 source:/media/nasser_pc/New Volume/CS/Projects/C_Area/PayInTheRestaurant/main.c
+	<stdio.h>
+	<stdlib.h>
+

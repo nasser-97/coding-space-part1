@@ -1,0 +1,39 @@
+.boxing{
+	border-style: solid; /* shorthand border-> border: 10px solid green */
+	border-width: 10px;
+	width: 50%;
+	height: 100%; /* height is connected with its parent*/
+	margin: auto;
+	padding:  20px;
+	background-color: hsl(125, 50%, 60%);
+	border-image-source:url("../testFolder/border.png");
+	/*border-image: linear-gradient(red,green);*/
+	box-shadow: 20px 20px 30px black;
+	border-radius: 20px/100px;
+	border-image-outset: 5px;
+	border-image-slice: 20;
+	/*display: inline-block;
+	visibility: hidden;*/
+}
+.OldBoxing{
+	display: none;
+}
+.PosDiv{
+	border: 5px solid black;
+	border-radius: 0px;
+	width: 150px;
+	height: 100px;
+	/*margin: 5px;*/
+
+}
+#red{
+	background-color: red;
+}
+#blue{
+	position: sticky;
+	top: 0px;
+	background-color: blue;
+}
+#green{
+	background-color: green;
+}

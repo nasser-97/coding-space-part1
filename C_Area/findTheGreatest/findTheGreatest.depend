@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657056958 source:/media/nasser_pc/New Volume/CS/Projects/findTheGreatest/main.c
+	<stdio.h>
+	<stdlib.h>
+

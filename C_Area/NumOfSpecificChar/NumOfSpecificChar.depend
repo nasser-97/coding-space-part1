@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660142057 source:/media/nasser_pc/New Volume/CS/Projects/NumOfSpecificChar/main.c
+	<stdio.h>
+	<stdlib.h>
+
