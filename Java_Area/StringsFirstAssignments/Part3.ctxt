@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Part3
+comment1.params=stringa\ stringb
+comment1.target=int\ Freq(java.lang.String,\ java.lang.String)
+comment2.params=stringa\ stringb
+comment2.target=boolean\ twoOccurrences(java.lang.String,\ java.lang.String)
+numComments=3
